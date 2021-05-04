@@ -8769,6 +8769,10 @@ footer .copy ul li a {
 	margin-bottom: 0;
 }
 
+.crew-info .crew .card-styl {
+	color: #f00;
+}
+
 .crew-info .crew .content-crew {
 	margin-bottom: 3rem;
 }
