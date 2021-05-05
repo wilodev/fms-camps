@@ -13832,6 +13832,9 @@ footer .copy ul li {
 
 @media only screen and (max-width: 576px) {
 
+.modal {
+	display: block !important;
+}
 .modal .modal-dialog h2 {
 	font-size: 2rem;
 }
