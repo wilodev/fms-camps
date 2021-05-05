@@ -17919,6 +17919,10 @@ if (hamburgers.length > 0) {
     });
 }
 
+(0, _jquery2.default)(document).ready(function () {
+    (0, _jquery2.default)('#star-notification').modal('show');
+});
+
 // console.log(inputs);
 
 // require('./login.js');
